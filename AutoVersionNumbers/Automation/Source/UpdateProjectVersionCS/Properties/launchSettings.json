@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UpdateProjectVersionCS": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\perforce\\depot_all\\GameDevTricks\\AutoVersionNumbers"
+    }
+  }
+}
